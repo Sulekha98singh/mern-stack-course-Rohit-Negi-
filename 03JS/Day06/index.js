@@ -2,7 +2,7 @@
 // const str1 = "Rohitboy";
 // const str2 = 'Rohit Negi';
 // const day = 18;
-// const str3 = `Strike is coming on ${day}`;
+// const str3 = `Strike is coming on ${day}`;  // best way to create a string...
 
 // console.log(str3);
 
