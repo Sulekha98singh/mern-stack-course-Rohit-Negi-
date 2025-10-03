@@ -1,7 +1,7 @@
 // Number
 // let a = 10;
 // let b = 345.6821;
-// let c = b.toFixed(1);
+// let c = b.toFixed(1); // toFixed(1) convert b in to string so now type of c is string
 // console.log(typeof c);
 
 // console.log(b.toPrecision(4));
